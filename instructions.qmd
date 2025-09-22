@@ -1,7 +1,7 @@
 ---
 title: "How to contribute"
 author: 
-  - Marie-Pierre Etienne
+  - Lokian LGA
 format: html
 ---
 
